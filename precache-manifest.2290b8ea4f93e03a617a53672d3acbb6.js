@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c273f320e75d6547608ba5483639c66",
+    "revision": "d8280a54a9d9b0b3206ab0116bacc2ac",
     "url": "/clothshop/index.html"
   },
   {
-    "revision": "3c3e23e168639790adab",
+    "revision": "c1fa003a9f3ff0cf2a07",
     "url": "/clothshop/static/css/main.18a3ac86.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/clothshop/static/js/2.8f4abbc3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c3e23e168639790adab",
-    "url": "/clothshop/static/js/main.c519213d.chunk.js"
+    "revision": "c1fa003a9f3ff0cf2a07",
+    "url": "/clothshop/static/js/main.171cd38b.chunk.js"
   },
   {
     "revision": "008be9c8b46461baad46",

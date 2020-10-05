@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/clothshop/static/css/main.18a3ac86.chunk.css",
-    "main.js": "/clothshop/static/js/main.c519213d.chunk.js",
-    "main.js.map": "/clothshop/static/js/main.c519213d.chunk.js.map",
+    "main.js": "/clothshop/static/js/main.171cd38b.chunk.js",
+    "main.js.map": "/clothshop/static/js/main.171cd38b.chunk.js.map",
     "runtime-main.js": "/clothshop/static/js/runtime-main.fa14485d.js",
     "runtime-main.js.map": "/clothshop/static/js/runtime-main.fa14485d.js.map",
     "static/js/2.8f4abbc3.chunk.js": "/clothshop/static/js/2.8f4abbc3.chunk.js",
     "static/js/2.8f4abbc3.chunk.js.map": "/clothshop/static/js/2.8f4abbc3.chunk.js.map",
     "index.html": "/clothshop/index.html",
-    "precache-manifest.4e6859736b7eb6bdef02684798bc60a7.js": "/clothshop/precache-manifest.4e6859736b7eb6bdef02684798bc60a7.js",
+    "precache-manifest.2290b8ea4f93e03a617a53672d3acbb6.js": "/clothshop/precache-manifest.2290b8ea4f93e03a617a53672d3acbb6.js",
     "service-worker.js": "/clothshop/service-worker.js",
     "static/css/main.18a3ac86.chunk.css.map": "/clothshop/static/css/main.18a3ac86.chunk.css.map",
     "static/js/2.8f4abbc3.chunk.js.LICENSE.txt": "/clothshop/static/js/2.8f4abbc3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fa14485d.js",
     "static/js/2.8f4abbc3.chunk.js",
     "static/css/main.18a3ac86.chunk.css",
-    "static/js/main.c519213d.chunk.js"
+    "static/js/main.171cd38b.chunk.js"
   ]
 }
